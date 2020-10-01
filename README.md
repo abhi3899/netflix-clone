@@ -1,4 +1,4 @@
-## A NETFLIX CLONE
+## A NETFLIX CLONE [App Link](https://netflix-clone-33ab8.web.app) 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
